@@ -1,0 +1,3 @@
+veracode_static_scan:
+  analysis_on_platform: true
+  profile: verademo-js-veraorg
